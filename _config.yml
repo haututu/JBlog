@@ -1,7 +1,7 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Haututū
+bio:            'A simple analytics blog using the latest statistical packages'
+description:    "Having a tutū with data using only the coolest of techniques."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://haututu.github.io/JBlog
@@ -24,7 +24,7 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
+#twitter: username
 facebook: username
 #google:
   #plus: #username
@@ -37,14 +37,14 @@ github: haututu
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
