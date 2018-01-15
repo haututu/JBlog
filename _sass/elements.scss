@@ -136,7 +136,6 @@ figure {
   padding-bottom: 10px;
   @include clearfix();
   img {
-    width: 50%;
     margin-bottom: 10px;
     @include rounded(4px);
   }
