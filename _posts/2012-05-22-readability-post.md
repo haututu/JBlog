@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "MIPS Nedir"
-date: 2012-05-22
-excerpt: "Mips ve assembly kodları giriş."
-tags: [sample post, readability, test]
+title: "Are McDonalds fries a rip off ?"
+date: 2018-01-20
+excerpt: "Investigating if McDonalds fries are underweight with Bayesian estimation"
+tags: [R, Bayesian, BEST, McDonalds]
 ---
 **Mips Nedir ?**
 ===
