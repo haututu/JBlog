@@ -6,6 +6,8 @@ excerpt: "Investigating if McDonalds fries are underweight with Bayesian estimat
 tags: [R, Bayesian, BEST, McDonalds]
 ---
 
+Have you over thought your box of fries from McDonalds was only half full, half empty, or twice as big as it needs to be?
+
 ### Background
 
 
