@@ -1,22 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About
 tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
-{: .image-pull-right}
+The field of Data Science is booming and the only way to keep up is with constant learning to keep an 'edge'. Countless times I have gone to blogs to learn something new or to help solve a problem. I've since got to the point where to challenge myself further I figured I may as well jump on the blog wagon myself.
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+This blog is structured with short posts for those who may be interested in the data and questions. However, for those whose interest is piqued, I will also include full detail on my methods in an easy to follow format with all code and data available on my github.
 
-## About
-
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
-
-
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+I have worked with a range of languages over the last five years and currently use R and SQL on the daily. My programming level is early-intermediate and will hopefully be improving through some of the challenges addressed in this blog. Hopefully there will be something for all levels of reader or maybe some readers will even be keen to contribute advice, even better.
