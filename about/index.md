@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+tags: [about, R, JBlog]
+date: 2018-01-20
 ---
 
 The field of Data Science is booming and the only way to keep up is with constant learning to keep an 'edge'. Countless times I have gone to blogs to learn something new or to help solve a problem. I've since got to the point where to challenge myself further I figured I may as well jump on the blog wagon myself.
