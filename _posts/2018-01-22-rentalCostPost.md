@@ -17,7 +17,7 @@ The government [recently announced](https://www.studylink.govt.nz/about-studylin
 
 The announcement was made late November so at the moment we only the December data should be effected. December should also have a higher proportion of students signing on for flats relative to the rest of the population (although January data would be helpful).
 
-In the graph below we can see the average[^1] rent for dwellings in Wellington and Dunedin (I figured these are the most _studenty_ places). We would expect rent for tenency bonds lodged in December to increase sharply in 2017. However, the data suggests rent is increasing at the same rate from as realy as 2016 (at least a year before the announcement).
+In the graph below we can see the average[^1] rent for dwellings in Wellington and Dunedin (I figured these are the most _studenty_ places). We would expect rent for tenency bonds lodged in December to increase sharply in 2017. However, the data suggests rent is increasing at the same rate from as early as 2016 (at least a year before the announcement).
 
 [^1]: The average was caluclated using the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean), it's basically a mean that is less sensitive to outliers.
 
