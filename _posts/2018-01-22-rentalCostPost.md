@@ -29,8 +29,8 @@ If we look more closely at the numbers we can support that between the last two 
 <table class="table table-striped table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead><tr>
 <th style="text-align:left;">  </th>
-   <th style="text-align:right;"> Average(\$) </th>
-   <th style="text-align:right;"> Change(\$) </th>
+   <th style="text-align:right;"> Average($) </th>
+   <th style="text-align:right;"> Change($) </th>
    <th style="text-align:right;"> Percent change (%) </th>
   </tr></thead>
 <tbody>
