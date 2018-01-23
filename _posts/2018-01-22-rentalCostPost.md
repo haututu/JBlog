@@ -10,21 +10,21 @@ Are landlords cashing in on student loan changes ?
 
 ### Background
 
-The government [recently announced](https://www.studylink.govt.nz/about-studylink/news/2017/increases-to-student-allowance-and-living-costs.html) that student allowance and living costs are increasing by $50/pw. There has since been a lot of media coverage suggesting landlords are capitalising on this by increasing rent by the same amount. I will look at tenency bond data from the Ministry of Business, Innovation, and Employment (MBIE) to see if a rent increase is supported by bond data.
+The government [recently announced](https://www.studylink.govt.nz/about-studylink/news/2017/increases-to-student-allowance-and-living-costs.html) that student allowance and living costs are increasing by $50/pw. There has since been a lot of media coverage suggesting landlords are capitalising on this by increasing rent by the same amount. I will look at tenancy bond data from the Ministry of Business, Innovation, and Employment (MBIE) to see if a rent increase is supported by bond data.
 
 
 ### The details
 
-The announcement was made late November so at the moment we only the December data should be effected. December should also have a higher proportion of students signing on for flats relative to the rest of the population (although January data would be helpful).
+The announcement was made late November so at the moment we only the December data should be affected. December should also have a higher proportion of students signing on for flats relative to the rest of the population (although January data would be helpful).
 
-In the graph below we can see the average[^1] rent for dwellings in Wellington and Dunedin (I figured these are the most _studenty_ places). We would expect rent for tenency bonds lodged in December to increase sharply in 2017. However, the data suggests rent is increasing at the same rate from as early as 2016 (at least a year before the announcement).
+In the graph below we can see the average[^1] rent for dwellings in Wellington and Dunedin (I figured these are the most _studenty_ places). We would expect rent for tenancy bonds lodged in December to increase sharply in 2017. However, the data suggests rent is increasing at the same rate from as early as 2016 (at least a year before the announcement).
 
 [^1]: The average was caluclated using the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean), it's basically a mean that is less sensitive to outliers.
 
 <img src="https://haututu.github.io/JBlog/blog/meanDecPlot.svg">
 
 <br>
-If we look more closely at the numbers we can support that between the last two Decembers rent in Wellington increased by $43 (9.7%). Yet in the period before that we see a similar $43 (10.7%) increase. I have also compared the lower quartiles which show a similar trend, making it unlikely that lower rent student flats are not being effected. Do note though, that this is only lodged bonds and any changes in rent to people continuing their tenancy will not be captured. Although I'm assuming it's less of a problem for students who are more likely to take up a new tenency each year.
+If we look more closely at the numbers we can support that between the last two Decembers rent in Wellington increased by $43 (9.7%). Yet in the period before that we see a similar $43 (10.7%) increase. I have also compared the lower quartiles which show a similar trend, making it unlikely that lower rent student flats are not being affected. Do note though, that this is only lodged bonds and any changes in rent to people continuing their tenancy will not be captured. Although I'm assuming it's less of a problem for students who are more likely to take up a new tenancy each year.
 
 <table class="table table-striped table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead><tr>
