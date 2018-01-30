@@ -65,7 +65,7 @@
           <div class="ustr">
             <h2>{{ page.title }}</h2>
             <div class="yazibilgisi">
-              {{ page.date | date_to_string }} tarihinde yayınlandı.
+              {{ page.date | date_to_string }}
             </div>
           </div>
           <hr>
@@ -78,5 +78,6 @@
       </div>
     </div>
     {% include footer.html %}
+    {% include analytics.html %}
   </body>
 </html>
