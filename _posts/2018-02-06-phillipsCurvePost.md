@@ -17,7 +17,7 @@ I was interested in messing with time series data. Initially I was looking at th
 
 We can see in the graph below that there is a reasonably strong relationship between unemployment and inflation. My main concern though, is that the trend is very long term. This means inflation may be pretty pathetic at predicting short-term trends for unemployment. The full report will test this out more carefully, in this post I'll report a couple of forecasts and we can see how well they stack up.
 
-![](images/unempPlot.svg)
+<img src="https://haututu.github.io/JBlog/blog/unempPlot.svg">
 
 The industry standard for forecasting is the [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model, used extensively for timeseries forecasting. Luckily its prevelance means a lot of effort has gone into making functions that work great out of the box (admittedly I did a small amount of tuning though). Using the `forecast::auto.arima()` function, a pure timeseries forecast would suggest a seasonally adjusted unemployment of **4.45%** for 2017 Q4. When we include the inflation for Q4, released a month before the unemployment rate, we get an adjusted rate of **4.49%**.
 
