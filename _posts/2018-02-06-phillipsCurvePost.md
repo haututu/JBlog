@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unemployment and the Phillips curve"
+title: "Unemployment forecasting"
 date: "2018-02-06"
 excerpt: "Forecasting unemployment using inflation as a covariate"
 tags: [R, timeseries, ARIMA, unemployment]
@@ -19,7 +19,7 @@ We can see in the graph below that there is a reasonably strong relationship bet
 
 <img src="https://haututu.github.io/JBlog/blog/unempPlot.svg">
 
-The industry standard for forecasting is the [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model, used extensively for timeseries forecasting. Luckily its prevelance means a lot of effort has gone into making functions that work great out of the box (admittedly I did a small amount of tuning though). Using the `forecast::auto.arima()` function, a pure timeseries forecast would suggest a seasonally adjusted unemployment of **4.45%** for 2017 Q4. When we include the inflation for Q4, released a month before the unemployment rate, we get an adjusted rate of **4.49%**.
+The industry standard for forecasting is the [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model, used extensively for timeseries forecasting. Luckily its prevalence means a lot of effort has gone into making functions that work great out of the box (admittedly I did a small amount of tuning though). Using the `forecast::auto.arima()` function, a pure timeseries forecast would suggest a seasonally adjusted unemployment of **4.45%** for 2017 Q4. When we include the inflation for Q4, released a month before the unemployment rate, we get an adjusted rate of **4.49%**.
 
 ### Conclusion
 
