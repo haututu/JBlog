@@ -28,6 +28,6 @@ Checking on the McDonalds website the serving size is 120g for a large fries and
 
 No need to fear that we are getting ripped off with our large fries (at least for the McDonalds tested). However, if you for some reason care about the calories then on average you are consuming 60 calories more than advertised based on a rough calculation.
 
-I can sleep easy knowing Im getting my moneys worth but an interesting next step would be to investigate reliability between stores and between medium/large fries.
+I can sleep easy knowing I'm getting my moneys worth but an interesting next step would be to investigate reliability between stores and between medium/large fries.
 
-As a final note, the method behind this is a pretty straight forward example of Bayesian estimation so anyone interested in the data side should take a look at the [full](https://haututu.github.io/JBlog/mcdfries/) write up.
+As a final note, the method behind this is a pretty straightforward example of Bayesian estimation so anyone interested in the data side should take a look at the [full](https://haututu.github.io/JBlog/mcdfries/) write up.
